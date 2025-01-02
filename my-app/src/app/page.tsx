@@ -30,7 +30,7 @@ export default function Home() {
           backgroundColor: color,
           margin: '0 auto 20px',
         }} />
-        <h3>Guess the Hex Color</h3>
+        <h3 className='text-red-500'>Guess the Hex Color</h3>
         <Input
           clearable
           underlined
