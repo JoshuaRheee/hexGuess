@@ -21,8 +21,8 @@ export default function Home() {
   };
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', backgroundColor: '#000000' }}>
-      <div style={{ padding: '20px', maxWidth: '400px', textAlign: 'center', borderRadius: '8px', background: '#fff' }}>
+    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', backgroundColor: '#00FF00' }}>
+      <div style={{ padding: '20px', maxWidth: '400px', textAlign: 'center', borderRadius: '8px', background: '#101010' }}>
         <div style={{
           width: '200px',
           height: '200px',
